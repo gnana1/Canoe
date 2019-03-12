@@ -1,0 +1,6 @@
+1. Make the automation test (use an environment that you’re most familiar with. Such as Selenium, Cypress, etc.) that covers MarkJs configurator.
+a. The test should:
+i. Open the MarkJs configurator (​https://markjs.io/configurator.html​).
+ii. Fill out the form to allow to search for word “lorem” (case insensitive).
+iii. Assert that there is a correct number of marked matches.
+b. Within the same test adjust form so that it will search for case sensitive matches only and check for results.
