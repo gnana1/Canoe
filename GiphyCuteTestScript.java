@@ -1,3 +1,4 @@
+/*
 Test-3
 Make another test that visits https://giphy.com and searches for “fintech” gifs 
 and then asserts that there is a gif with a hashtag “#cute”.
@@ -9,7 +10,7 @@ Pre-Requisite to run the code in Eclipse:
 NOTE1: In order to run the below code, specify the local path to chromedriver file.
 NOTE2: The explantion of the Testscript is written in the inline comments 
 ====================================================================================================================
-
+*/
 package introduction;
 
 import org.openqa.selenium.By;
