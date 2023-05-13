@@ -1,3 +1,5 @@
+
+/*
 1. Make the automation test (use an environment that you’re most familiar with. Such as Selenium, Cypress, etc.) that covers MarkJs configurator.
 a. The test should:
 i. Open the MarkJs configurator (​https://markjs.io/configurator.html​).
@@ -13,7 +15,7 @@ Pre-Requisite to run the code in Eclipse:
 NOTE1: In order to run the below code, specify the local path to chromedriver file.
 NOTE2: The explantion of the Testscript is written in the inline comments 
 ====================================================================================================================
-
+*/
 package introduction;
 
 import org.openqa.selenium.By;
