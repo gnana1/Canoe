@@ -1,4 +1,4 @@
-Test-2
+/*Test-2
 Make another test that covers the form at​ ​https://teroauralinna.github.io/vue-demo-form/ 
 for positive and negative testing scenarios.
 
@@ -10,7 +10,7 @@ Pre-Requisite to run the code in Eclipse:
 NOTE1: In order to run the below code, specify the local path to chromedriver file.
 NOTE2: The explantion of the Testscript is written in the inline comments 
 ====================================================================================================================
-
+*/
 package introduction;
 
 import java.util.concurrent.TimeUnit;
